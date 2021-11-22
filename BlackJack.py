@@ -303,7 +303,3 @@ def BlackJack():
 if __name__ == "__main__":
     BlackJack()
 
-#betting
-#double down
-
-#fix if ace is 1 or 11
